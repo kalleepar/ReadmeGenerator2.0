@@ -1,10 +1,10 @@
 
 # Project Title
-trsring
+Pianos Galore
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Description
-for
+Buy and sell used/new pianos!
 
 # Table of Contents 
 * [Installation](#-Installation)
@@ -15,10 +15,10 @@ for
 * [Questions](#-Contact-Information)
   
 # Installation
-the
+No installation necessary!
 
 # Usage
-prject
+Browse an assortment of fine pianos!
 
 # License 
 MIT
@@ -31,6 +31,6 @@ undefined
 undefined
 
 # Contact Information 
-* GitHub Username: kalleepar
-* Contact Email: kalleepar@gmail.com
+* GitHub Username: Kalleepar
+* Contact Email: Kalleepar@gmail.com
 
