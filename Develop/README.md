@@ -21,7 +21,9 @@ Node:
 -GenerateMarkdown
 
 # Usage
-![Alt text](https://watch.screencastify.com/v/LHMQtc9wKo64C5x6aPac)
+Video Demo:
+https://watch.screencastify.com/v/LHMQtc9wKo64C5x6aPac
+
 ![Alt text](https://github.com/kalleepar/ReadmeGenerator2.0/blob/d20b73917af596b40b1977153f4d3f4b58e3f7b8/Develop/images/readmegeneratorsample1.jpg)
 ![Alt text](https://github.com/kalleepar/ReadmeGenerator2.0/blob/d20b73917af596b40b1977153f4d3f4b58e3f7b8/Develop/images/readmegeneratorsample2.jpg)
 ![Alt text](https://github.com/kalleepar/ReadmeGenerator2.0/blob/d20b73917af596b40b1977153f4d3f4b58e3f7b8/Develop/images/readmegeneratorsample3.jpg)
