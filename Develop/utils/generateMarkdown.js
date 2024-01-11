@@ -5,10 +5,10 @@ function generateMarkdown(data) {
 ${data.title}
 ${data.getLicense}
 
-# Description
+## Description
 ${data.description}
 
-# Table of Contents 
+## Table of Contents 
 * [Installation](#-Installation)
 * [Usage](#-Usage)
 * [License](#-Installation)
@@ -16,23 +16,23 @@ ${data.description}
 * [Tests](#-Tests)
 * [Questions](#-Contact-Information)
   
-# Installation
+## Installation
 ${data.installation}
 
-# Usage
+## Usage
 ${data.usage}
 
-# License 
+## License 
 ${data.license}
 * As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
 
-# Contributing 
+## Contributing 
 ${data.contributing}
 
-# Tests
+## Tests
 ${data.tests}
 
-# Contact Information 
+## Contact Information 
 * GitHub Username: ${data.userName}
 * Contact Email: ${data.userEmail}
 
